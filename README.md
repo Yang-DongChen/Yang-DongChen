@@ -17,8 +17,7 @@
 - **[Pet-Life-Tracker]**: 毕业设计项目，记录狗狗抱抱的饮食、健康与成长瞬间。
 
 ### 📬 联系我
-- **Gmail**: [你的邮箱]@gmail.com
-- **Blog**: [如果有的话填在这里]
+- **Gmail**: yy0473616@gmail.com
 
 ---
 "The best way to predict the future is to create it."
